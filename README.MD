@@ -1,5 +1,9 @@
 # VintageStory.1.21.x GitHub repo 
 
+## 260403 Continue
+- Backup ServerSettings
+- Run new
+
 ## Bags ok Slim works 4 hours om battery
 - days 4 dies
 

@@ -3,7 +3,7 @@
     "statictranslocator": "#00d4ad"
   },
   "ScanDelay": 20000,
-  "MaxSearchRadius": 160,
+  "MaxSearchRadius": 254,
   "MaxLabelRadius": 16,
   "ShouldShowEntityLines": false,
   "ShouldShowDebugText": true,

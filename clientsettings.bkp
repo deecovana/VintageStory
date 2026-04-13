@@ -108,7 +108,7 @@
   },
   "intSettings": {
     "fpHandsFoV": 70,
-    "cloudRenderMode": 1,
+    "cloudRenderMode": 2,
     "mipmapLevel": 3,
     "musicFrequency": 1,
     "graphicsPresetId": 11,
@@ -132,7 +132,7 @@
     "entitySoundLevel": 100,
     "ambientSoundLevel": 100,
     "weatherSoundLevel": 100,
-    "musicLevel": 32,
+    "musicLevel": 0,
     "screenWidth": 1260,
     "screenHeight": 700,
     "gameWindowMode": 1,
@@ -150,7 +150,7 @@
     "modelDataPoolMaxParts": 1500,
     "maxTextureAtlasWidth": 4096,
     "maxTextureAtlasHeight": 4096,
-    "godRays": 0,
+    "godRays": 1,
     "chatWindowWidth": 700,
     "chatWindowHeight": 200,
     "recordingBufferSize": 60,
@@ -174,8 +174,8 @@
     "showentitydebuginfo": false,
     "showBlockInfoHud": true,
     "showBlockInteractionHelp": true,
-    "showCoordinateHud": true,
-    "wavingStuff": false,
+    "showCoordinateHud": false,
+    "wavingStuff": true,
     "renderMetaBlocks": false,
     "ambientParticles": true,
     "pauseGameOnLostFocus": false,
@@ -223,14 +223,14 @@
     "gammaLevel": 3.0,
     "extraGammaLevel": 1.0,
     "brightnessLevel": 1.0,
-    "sepiaLevel": 0.1,
+    "sepiaLevel": 0.2,
     "cameraShakeStrength": 1.0,
     "wireframethickness": 2.0,
     "previewTransparency": 0.3,
     "fpHandsYOffset": -0.1,
     "swimmingMouseSmoothing": 0.9,
     "mouseWheelSensivity": 1.0,
-    "ambientBloomLevel": 0.2,
+    "ambientBloomLevel": 20.0,
     "extraContrastLevel": 0.5,
     "recordingFrameRate": 30.0,
     "gameTickFrameRate": 30.0,
@@ -247,7 +247,7 @@
     "dialogPositions": [],
     "modPaths": [
       "Mods",
-      "C:\\Users\\dmytr\\AppData\\Roaming\\VintagestoryData\\Mods"
+      "C:\\Users\\cheva\\AppData\\Roaming\\VintagestoryData\\Mods"
     ],
     "customPlayStyles": []
   }
