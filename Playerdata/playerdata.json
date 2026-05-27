@@ -1,0 +1,23 @@
+[
+  {
+    "PlayerUID": "1234567890",
+    "RoleCode": "admin",
+    "PermaPrivileges": [],
+    "DeniedPrivileges": [],
+    "PlayerGroupMemberShips": {
+      "10": {
+        "Level": 1,
+        "GroupName": "Xlib",
+        "GroupUid": 10
+      }
+    },
+    "AllowInvite": true,
+    "LastKnownPlayername": "Cheva",
+    "CustomPlayerData": {},
+    "ExtraLandClaimAllowance": 0,
+    "ExtraLandClaimAreas": 0,
+    "FirstJoinDate": "27.05.2026 20:49",
+    "LastJoinDate": "27.05.2026 20:49",
+    "LastCharacterSelectionDate": "27.05.2026 20:49"
+  }
+]

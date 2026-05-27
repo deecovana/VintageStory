@@ -1,0 +1,15 @@
+{
+  "1234567890": {
+    "UnlearnPoints": 0.0,
+    "UnlearnCooldown": 0.0,
+    "Sparring": false,
+    "Skills": {
+      "survival": {
+        "Level": 1,
+        "Experience": 0.010111598,
+        "Abilities": {}
+      }
+    },
+    "Knowledge": {}
+  }
+}

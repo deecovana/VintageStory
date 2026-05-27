@@ -1,0 +1,11 @@
+{
+  "lvPopupEnabled": true,
+  "effectBoxEnabled": true,
+  "effectBoxOriginX": 8.0,
+  "effectBoxOriginY": 8.0,
+  "effectBoxSize": 40.0,
+  "effectBoxOrientation": 0,
+  "EnableCustomFont": true,
+  "_comment_CustomFontPath": "Optional: absolute path to a .ttf font file. Example: C:\\Windows\\Fonts\\simhei.ttf (Use double slashes!)",
+  "CustomFontPath": ""
+}

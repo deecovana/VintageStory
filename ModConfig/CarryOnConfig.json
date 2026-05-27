@@ -1,0 +1,102 @@
+{
+  "ConfigVersion": 3,
+  "Carryables": {
+    "Anvil": true,
+    "Barrel": true,
+    "Bookshelf": false,
+    "BunchOCandles": false,
+    "Chandelier": false,
+    "ChestTrunk": false,
+    "Chest": true,
+    "Clutter": false,
+    "Crate": true,
+    "DisplayCase": false,
+    "Flowerpot": true,
+    "Forge": false,
+    "Henbox": false,
+    "LogWithResin": false,
+    "LootVessel": true,
+    "MoldRack": false,
+    "Mold": false,
+    "Oven": false,
+    "Planter": true,
+    "Quern": true,
+    "ReedChest": true,
+    "Resonator": true,
+    "Shelf": false,
+    "Sign": false,
+    "StorageVessel": true,
+    "ToolRack": false,
+    "TorchHolder": false
+  },
+  "CarryablesOnBack": {
+    "Barrel": true,
+    "ChestLabeled": true,
+    "ChestTrunk": false,
+    "Chest": true,
+    "Crate": false,
+    "Flowerpot": true,
+    "LogWithResin": false,
+    "LootVessel": true,
+    "Planter": true,
+    "ReedChest": true,
+    "Resonator": true,
+    "StorageVessel": true
+  },
+  "Interactables": {
+    "Door": true,
+    "Barrel": true,
+    "Storage": true
+  },
+  "CarryOptions": {
+    "AllowSprintWhileCarrying": false,
+    "IgnoreCarrySpeedPenalty": false,
+    "RemoveInteractDelayWhileCarrying": false,
+    "InteractSpeedMultiplier": 1.0,
+    "MaxInteractionDistance": 6,
+    "BackSlotEnabled": true,
+    "AllowHighCapacityStorageOnBack": false,
+    "PreventSwapFromBackOnTarget": [
+      "behavior::Container",
+      "behavior::Door",
+      "class::portals.portal",
+      "code::groundstorage",
+      "class::BlockGroundStorage"
+    ],
+    "TooHotToCarry": true,
+    "TooHotToCarryTemperature": 50
+  },
+  "CarryablesFilters": {
+    "AutoMapSimilar": true,
+    "AutoMatchIgnoreMods": [
+      "mcrate"
+    ],
+    "AllowedShapeOnlyMatches": [
+      "block/clay/lootvessel",
+      "block/wood/chest/normal",
+      "block/wood/trunk/normal",
+      "block/reed/basket-normal"
+    ],
+    "RemoveBaseCarryableBehaviour": [
+      "woodchests:wtrunk"
+    ],
+    "RemoveCarryableBehaviour": [
+      "game:banner",
+      "game:clutter-devastation"
+    ]
+  },
+  "BackpackTypes": {
+    "small": [
+      "game:hunterbackpack"
+    ],
+    "large": [
+      "game:backpack-normal",
+      "game:backpack-sturdy"
+    ]
+  },
+  "DebuggingOptions": {
+    "LoggingEnabled": false,
+    "DisableHarmonyPatch": false,
+    "EnablePackAdjustmentTool": false
+  }
+}

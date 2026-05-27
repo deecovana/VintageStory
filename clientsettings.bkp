@@ -88,7 +88,7 @@
     }
   },
   "stringSettings": {
-    "settingsVersion": "1.14",
+    "settingsVersion": "1.15",
     "language": "ru",
     "defaultFontName": "Consolas",
     "decorativeFontName": "Book Antiqua",
@@ -183,6 +183,7 @@
     "invertMouseYAxis": false,
     "highQualityAnimations": true,
     "occlusionculling": true,
+    "focusWindowOnModInstallRequest": true,
     "developerMode": false,
     "glDebugMode": false,
     "showWhitelistedServers": true,

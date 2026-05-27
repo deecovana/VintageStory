@@ -4,6 +4,7 @@
 - Update mods
 - Delete saves
 - Delete folders 
+- Start default
 
 _________________________________
 

@@ -88,7 +88,7 @@
     }
   },
   "stringSettings": {
-    "settingsVersion": "1.14",
+    "settingsVersion": "1.16",
     "language": "ru",
     "defaultFontName": "Consolas",
     "decorativeFontName": "Book Antiqua",
@@ -183,6 +183,7 @@
     "invertMouseYAxis": false,
     "highQualityAnimations": true,
     "occlusionculling": true,
+    "focusWindowOnModInstallRequest": true,
     "developerMode": false,
     "glDebugMode": false,
     "showWhitelistedServers": true,
@@ -211,7 +212,8 @@
     "renderClouds": false,
     "hasGameServer": false,
     "showMinimapHud": true,
-    "chatdialogvisible": true
+    "chatdialogvisible": true,
+    "promptForCommandLinks": true
   },
   "floatSettings": {
     "guiScale": 0.75,
