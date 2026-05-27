@@ -1,4 +1,11 @@
-# VintageStory.1.21.x GitHub repo 
+# VintageStory.1.22.x GitHub repo
+
+## Update 1.22.2
+- Update mods
+- Delete saves
+- Delete folders 
+
+_________________________________
 
 ## 260403 Continue
 - Backup ServerSettings
