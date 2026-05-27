@@ -17,7 +17,7 @@
       "OnKeyUp": false
     },
     "ctrl": {
-      "KeyCode": 3,
+      "KeyCode": 1,
       "SecondKeyCode": null,
       "Ctrl": false,
       "Alt": false,
@@ -25,7 +25,7 @@
       "OnKeyUp": false
     },
     "shift": {
-      "KeyCode": 1,
+      "KeyCode": 3,
       "SecondKeyCode": null,
       "Ctrl": false,
       "Alt": false,
@@ -48,26 +48,10 @@
       "Shift": false,
       "OnKeyUp": false
     },
-    "sitdown": {
-      "KeyCode": 57,
+    "danatweaks:autowalk": {
+      "KeyCode": 60,
       "SecondKeyCode": null,
       "Ctrl": false,
-      "Alt": false,
-      "Shift": false,
-      "OnKeyUp": false
-    },
-    "screenshot": {
-      "KeyCode": 21,
-      "SecondKeyCode": null,
-      "Ctrl": false,
-      "Alt": false,
-      "Shift": false,
-      "OnKeyUp": false
-    },
-    "megascreenshot": {
-      "KeyCode": 21,
-      "SecondKeyCode": null,
-      "Ctrl": true,
       "Alt": false,
       "Shift": false,
       "OnKeyUp": false
@@ -88,7 +72,7 @@
     }
   },
   "stringSettings": {
-    "settingsVersion": "1.15",
+    "settingsVersion": "1.16",
     "language": "ru",
     "defaultFontName": "Consolas",
     "decorativeFontName": "Book Antiqua",
@@ -104,11 +88,11 @@
     "audioDevice": null,
     "playeruid": "1234567890",
     "playername": "Cheva",
-    "lastSkinSelection": "baseskin:skin11,eyecolor:opal,underwear:leotard,voicetype:clarinet,voicepitch:verylow,hairbase:mediumlength-bangs,hairextra:tiedback,facialexpression:tired,mustache:mst-walrus05-neat,beard:brd-braid15-triple,haircolor:queenblue"
+    "lastSkinSelection": "baseskin:skin5,eyecolor:aquamarine,underwear:breeches,voicetype:tuba,voicepitch:verylow,hairbase:kniaz,hairextra:topknot,facialexpression:kind,mustache:mst-line20-seagull,beard:brd-full01-trimmedfull,haircolor:queenblue"
   },
   "intSettings": {
     "fpHandsFoV": 70,
-    "cloudRenderMode": 2,
+    "cloudRenderMode": 1,
     "mipmapLevel": 3,
     "musicFrequency": 1,
     "graphicsPresetId": 11,
@@ -119,7 +103,7 @@
     "shadowMapQuality": 0,
     "optimizeRamMode": 1,
     "ssaoQuality": 1,
-    "viewDistance": 160,
+    "viewDistance": 256,
     "fieldOfView": 70,
     "maxFps": 30,
     "particleLevel": 10,
@@ -132,7 +116,7 @@
     "entitySoundLevel": 100,
     "ambientSoundLevel": 100,
     "weatherSoundLevel": 100,
-    "musicLevel": 0,
+    "musicLevel": 10,
     "screenWidth": 1260,
     "screenHeight": 700,
     "gameWindowMode": 1,
@@ -143,14 +127,14 @@
     "maxAsyncQuadParticles": 80000,
     "maxAsyncCubeParticles": 80000,
     "itemCollectMode": 0,
-    "mouseSmoothing": 95,
-    "mouseSensivity": 125,
+    "mouseSmoothing": 100,
+    "mouseSensivity": 100,
     "modelDataPoolMaxVertexSize": 500000,
     "modelDataPoolMaxIndexSize": 750000,
     "modelDataPoolMaxParts": 1500,
     "maxTextureAtlasWidth": 4096,
     "maxTextureAtlasHeight": 4096,
-    "godRays": 1,
+    "godRays": 0,
     "chatWindowWidth": 700,
     "chatWindowHeight": 200,
     "recordingBufferSize": 60,
@@ -174,8 +158,8 @@
     "showentitydebuginfo": false,
     "showBlockInfoHud": true,
     "showBlockInteractionHelp": true,
-    "showCoordinateHud": false,
-    "wavingStuff": true,
+    "showCoordinateHud": true,
+    "wavingStuff": false,
     "renderMetaBlocks": false,
     "ambientParticles": true,
     "pauseGameOnLostFocus": false,
@@ -190,11 +174,11 @@
     "showModdedServers": true,
     "showPasswordProtectedServers": true,
     "showOpenForAllServers": true,
-    "liquidFoamAndShinyEffect": false,
+    "liquidFoamAndShinyEffect": true,
     "testGlExtensions": true,
     "offThreadMipMaps": false,
     "toggleSprint": false,
-    "separateCtrlKeyForMouse": true,
+    "separateCtrlKeyForMouse": false,
     "allowSettingHRTFaudio": true,
     "useHRTFaudio": false,
     "force48khzHRTFaudio": true,
@@ -209,34 +193,35 @@
     "allowSSBOs": true,
     "disableModSafetyCheck": false,
     "forceUdpOverTcp": false,
-    "renderClouds": false,
+    "renderClouds": true,
     "hasGameServer": false,
     "showMinimapHud": true,
-    "chatdialogvisible": true
+    "chatdialogvisible": false,
+    "promptForCommandLinks": true
   },
   "floatSettings": {
     "guiScale": 0.75,
     "fontSize": 0.75,
     "lodBias": 0.33,
-    "lodBiasFar": 0.75,
+    "lodBiasFar": 0.84,
     "blockAtlasSubPixelPadding": 0.01,
     "itemAtlasSubPixelPadding": 0.0,
     "gammaLevel": 3.0,
     "extraGammaLevel": 1.0,
     "brightnessLevel": 1.0,
-    "sepiaLevel": 0.2,
+    "sepiaLevel": 0.1,
     "cameraShakeStrength": 1.0,
     "wireframethickness": 2.0,
     "previewTransparency": 0.3,
     "fpHandsYOffset": -0.1,
     "swimmingMouseSmoothing": 0.9,
     "mouseWheelSensivity": 1.0,
-    "ambientBloomLevel": 20.0,
+    "ambientBloomLevel": 0.2,
     "extraContrastLevel": 0.5,
     "recordingFrameRate": 30.0,
     "gameTickFrameRate": 30.0,
     "instabilityWavingStrength": 1.0,
-    "ssaa": 1.0,
+    "ssaa": 0.75,
     "megaScreenshotSizeMul": 2.0,
     "minbrightness": 0.0
   },
@@ -244,7 +229,9 @@
     "multiplayerservers": [
       "xmini,127.0.0.1,"
     ],
-    "disabledMods": [],
+    "disabledMods": [
+      "stepupcontinued@0.0.1"
+    ],
     "dialogPositions": [],
     "modPaths": [
       "Mods",
