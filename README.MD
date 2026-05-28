@@ -1,5 +1,8 @@
 # VintageStory.1.22.x GitHub repo
 
+## 2hrs played 
+- Set 20 HP 60 sec noDrop on death
+
 ## Update 1.22.2
 - Update mods
 - Delete saves
