@@ -6,7 +6,7 @@
     "Skills": {
       "survival": {
         "Level": 1,
-        "Experience": 1.9224774,
+        "Experience": 1.3127754,
         "Abilities": {}
       },
       "farming": {
@@ -16,7 +16,7 @@
       },
       "digging": {
         "Level": 1,
-        "Experience": 66.13226,
+        "Experience": 71.41229,
         "Abilities": {}
       },
       "forestry": {
@@ -31,7 +31,7 @@
       },
       "combat": {
         "Level": 1,
-        "Experience": 5.5,
+        "Experience": 10.450001,
         "Abilities": {}
       },
       "cooking": {
