@@ -2,6 +2,7 @@
 
 ## 2hrs played 
 - Set 20 HP 60 sec noDrop on death
+- pack save zip normal
 
 ## Update 1.22.2
 - Update mods
