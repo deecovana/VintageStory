@@ -226,16 +226,8 @@
       ]
     },
     {
-      "name": "soulboundbag",
-      "id": 16,
-      "maxTier": 1,
-      "minLevel": 7,
-      "enabled": true,
-      "values": []
-    },
-    {
       "name": "luminiferous",
-      "id": 17,
+      "id": 16,
       "maxTier": 3,
       "minLevel": 8,
       "enabled": true,
@@ -253,7 +245,7 @@
     },
     {
       "name": "cateyes",
-      "id": 18,
+      "id": 17,
       "maxTier": 2,
       "minLevel": 8,
       "enabled": true,
@@ -266,7 +258,7 @@
     },
     {
       "name": "meteorologist",
-      "id": 19,
+      "id": 18,
       "maxTier": 1,
       "minLevel": 8,
       "enabled": true,
@@ -277,7 +269,7 @@
     },
     {
       "name": "laststand",
-      "id": 20,
+      "id": 19,
       "maxTier": 1,
       "minLevel": 10,
       "enabled": true,

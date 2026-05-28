@@ -3,6 +3,7 @@
 ## 2hrs played 
 - Set 20 HP 60 sec noDrop on death
 - pack save zip normal
+- 3h played, 4 bigbags crafted
 
 ## Update 1.22.2
 - Update mods
