@@ -1,4 +1,7 @@
-# VintageStory.1.22.x GitHub repo
+# VintageStory.1.22.2- GitHub repo
+
+## Backup VintageStory-1.22.2
+- Start new VintageStory 1.22.5
 
 ## 2hrs played 
 - Set 20 HP 60 sec noDrop on death
